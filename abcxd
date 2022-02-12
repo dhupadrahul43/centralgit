@@ -1,3 +1,3 @@
 echo "rahul git "
-pwd
-uptime
+touch file1
+
