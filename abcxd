@@ -1,3 +1,13 @@
-echo "rahul git "
+pipeline {
+  agent any
+  }
+  stages {
+    stage('my nane') {
+      steps {
+        sh 'echo "ipl auction"'
+      }
+    }
+  }
+      
 
 
